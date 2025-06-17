@@ -4,10 +4,6 @@
 *Never job hunt alone again! Meet your AI agents ready to scour the web for perfect opportunities*
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2U3Zzh6ZzU5a2NwNnVzZ3FpM3B1a2F6b3N5b2R4eXh6d2V4aGJ5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ll22OhMLAl0XllcfJS/giphy.gif" width="400">
-</div>
-
 ## 🚀 Features That Will Blow Your Mind
 
 - **🤖 AI Agent Dream Team**  
