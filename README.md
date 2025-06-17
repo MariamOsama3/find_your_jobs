@@ -3,7 +3,7 @@
 **Your AI-Powered Career Wingman**  
 *Never job hunt alone again! Meet your AI agents ready to scour the web for perfect opportunities*
 
-[![Streamlit]( https://lnkd.in/ddCQWzxq )
+[![Streamlit]https://lnkd.in/ddCQWzxq
 
 
 <div align="center">
